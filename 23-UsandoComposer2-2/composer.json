@@ -1,0 +1,10 @@
+{
+    "require":{
+        "monolog/monolog": "^1.27",
+        "intervention/image": "^2.7"
+
+    },
+        "autoload":{
+            "psr-4": {"classes\\":"classes\\"}   
+        }
+}
